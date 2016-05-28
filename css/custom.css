@@ -18,7 +18,7 @@
                   flex-direction: column;
                   justify-content: center;
                   font-family: 'Coda', cursive, "century gothic", arial, sans-serif;
-                  height:300px;
+                  height:900px;
 
                 }
 
@@ -54,16 +54,28 @@
 
                 #hero-heading{
 
-                  font-size: 60px;
+                  font-size: 70px;
                 }
-                #hero-subtitle{}
+                #hero-subtitle{
+					
+					font-size: 32px;
+					padding-top:15px;
+					
+				}
 
                 #section-about{
 
                       background-color:#990000;
+					  height:500px;
+					  padding-top:30px;
 
                   }
 
+				#heading-about{padding-top:30px;}  
+				
+				#about-headshot{padding-bottom:30px;}
+				  
+				#about-content{width:1000px; height:auto; margin:0px auto;}
                 footer{
 
                   background-color: #000000;

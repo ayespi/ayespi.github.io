@@ -24,6 +24,7 @@ html, body{
 body{
 
   text-align: center;
+  font-family: 'Coda', cursive, "century gothic", arial, sans-serif;
 
 }
 
@@ -37,8 +38,10 @@ h1{
 
 img{
 
-  border-radius: 50%;
+  border-radius: 35%;
 }
+
+//.container{width:1000px; height:auto;}
 
 .hero{
 
