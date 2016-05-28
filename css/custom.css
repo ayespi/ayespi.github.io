@@ -51,7 +51,13 @@
                   background-color:#990000;
 
                 }
-
+				section{
+					
+						padding-top:30px;
+						padding-bottom:30px;
+						font-size:24px;
+					  
+					  }
                 #hero-heading{
 
                   font-size: 70px;
@@ -67,16 +73,20 @@
 
                       background-color:#990000;
 					  height:500px;
-					  padding-top:30px;
-					  font-size:24px;
 
                   }
-
+				#section-contact{background-color:#cccccc;}
 				#heading-about{padding-top:30px;}  
+				
+				#heading-about ul li{display:inline; width:200px;}
+				
+				#heading-connect{}
 				
 				#about-headshot{padding-bottom:30px;}
 				  
 				#about-content{width:1000px; height:auto; margin:0px auto;}
+				
+				#section-tools{background-color:#333333; padding-top:30px;}
                 footer{
 
                   background-color: #000000;
